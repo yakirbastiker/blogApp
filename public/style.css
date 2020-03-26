@@ -1,0 +1,15 @@
+#bullseye {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 2em;
+}
+
+#container {
+    margin-top: 70px;
+}
+
+#deleteForm {
+    display: inline;
+}
